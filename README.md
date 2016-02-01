@@ -1,6 +1,6 @@
 ![frontendbr](https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg "FrontEndBR")
 
-# fórum
+# Fórum
 Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) pra issues.
 
 ## Propósito
