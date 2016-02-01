@@ -7,4 +7,4 @@ Alguns posts em grupos de front-end em redes sociais geram bastante conteúdo ba
 
 A busca do Facebook em grupos, por exemplo, tem vários problemas...
 
-A ideia desse repositório é portar essas discussões pra issues. Estando no Github, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
+A ideia desse repositório é portar ou iniciar essas discussões nas issues. Estando no Github, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
