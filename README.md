@@ -1,5 +1,5 @@
 # forum
-Portando discussões feitas em grupos (Facebook, Google Groups, Disquss) pra issues
+Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) pra issues.
 
 ## Propósito
 
