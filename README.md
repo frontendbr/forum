@@ -20,5 +20,5 @@ O objetivo maior é unificar todas as discussões em um só local e o Github foi
 * Espaço usado por quase todos os desenvolvedores
 * É uma rede social
 * Escalável
-* Fácilmente organizável
+* Facilmente organizável
 * A busca funciona muito bem
