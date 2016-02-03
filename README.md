@@ -22,3 +22,15 @@ O objetivo maior é unificar todas as discussões em um só local e o Github foi
 * Escalável
 * Facilmente organizável
 * A busca funciona muito bem
+
+## Código de conduta
+
+Como qualquer grupo de discussões, existem algumas regras que devem ser seguidas para proporcionar uma melhor experiência à todos.
+
+* Respeite para ser respeitado. Não escreva algo que possa ofender alguém. Reflita se o texto não é agressivo/mal educado antes de enviar.
+* Mantenha as críticas nas idéias e não nas pessoas.
+* Use a função de busca antes de criar uma nova issue.
+* Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
+* Escreva o português de forma correta e bem pontuado.
+* Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
+* Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
