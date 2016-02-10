@@ -23,7 +23,7 @@ O objetivo maior é unificar todas as discussões em um só local e o Github foi
 * Facilmente organizável
 * A busca funciona muito bem
 
-## Código de conduta
+## Código de Conduta
 
 Como qualquer grupo de discussões, existem algumas regras que devem ser seguidas para proporcionar uma melhor experiência à todos.
 
