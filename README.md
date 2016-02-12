@@ -38,11 +38,11 @@ Como qualquer grupo de discussões, existem algumas regras que devem ser seguida
 
 ## Extra
 
-No Slack [Front End Brazil](http://frontendbrasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
+No Slack [Frontend Brasil](http://frontendbrasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
 
 **Entre e participe!**
 
 Badge | Link | Participar
 ----- | ---- | ----------
-![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
+![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Frontend Brasil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
 
