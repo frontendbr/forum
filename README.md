@@ -3,7 +3,8 @@
 </p>
 
 # Fórum
-Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) pra issues.
+
+> Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) pra issues.
 
 ## Propósito
 
@@ -34,3 +35,14 @@ Como qualquer grupo de discussões, existem algumas regras que devem ser seguida
 * Escreva o português de forma correta e bem pontuado.
 * Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
 * Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
+
+## Extra
+
+No Slack [Front End Brazil](http://frontendbrasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
+
+**Entre e participe!**
+
+Badge | Link | Participar
+----- | ---- | ----------
+![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Front End Brazil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
+
