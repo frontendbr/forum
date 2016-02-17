@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg" alt="FrontEndBR" />
+  <img src="https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
 </p>
 
 # Fórum
 
 > Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) pra issues.
+
+_____
+#### [Participe](https://github.com/frontendbr/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+_____
 
 ## Propósito
 
