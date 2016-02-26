@@ -51,4 +51,13 @@ No Slack [Frontend Brasil](http://frontendbrasil.slack.com/) tem o canal `#forum
 Badge | Link | Participar
 ----- | ---- | ----------
 ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Frontend Brasil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
+ 
+________
+#### Repositórios da Front-End Brasil
 
+- [Fórum](https://github.com/frontendbr/forum)
+- [Eventos](https://github.com/frontendbr/eventos)
+- [Vagas](https://github.com/frontendbr/vagas)
+- [Poste mais!](https://github.com/frontendbr/poste-mais)
+- [Open Source](https://github.com/frontendbr/open-source)
+- [Sugestões](https://github.com/frontendbr/sugestoes)
