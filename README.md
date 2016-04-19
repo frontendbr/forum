@@ -42,6 +42,14 @@ Como qualquer grupo de discussões, existem algumas regras que devem ser seguida
 * Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
 * Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
 
+## Como receber atualizações do Forum
+
+Você pode receber atualizações do Forum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua fotinho de perfil.
+
+<p align="center">
+  <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
+</p>
+
 ## Extra
 
 No Slack [Frontend Brasil](http://frontendbrasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
