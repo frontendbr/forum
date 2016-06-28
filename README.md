@@ -8,7 +8,7 @@
 
 _____  
 <p align="center">
-  <a href="https://github.com/frontendbr/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="btn.png" alt="FrontEndBR" width="119" /></a>
+  <a href="https://github.com/frontendbr/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://raw.githubusercontent.com/frontendbr/forum/master/btn.png" alt="FrontEndBR" width="119" /></a>
 </p>
 _____
 
