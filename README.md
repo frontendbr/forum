@@ -26,9 +26,9 @@ O objetivo é unificar todas as discussões em um só local e o Github foi o esc
 
 * Espaço usado por quase todos os desenvolvedores
 * É uma rede social
-* Escalável
-* Facilmente organizável
 * A busca funciona muito bem
+* Escalável
+* Organizável
 
 ## Código de Conduta
 
