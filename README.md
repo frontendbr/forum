@@ -16,13 +16,11 @@ _____
 
 Uma [conversa no Twitter](https://twitter.com/LFeh/status/693111161856921600) foi o gatilho que precisavamos.
 
-Alguns posts em grupos de front-end em redes sociais geram bastante conteúdo bacana que poderia ser disponibilizado de forma mais fácil.
-
-A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
+Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
 
 A ideia desse repositório é portar ou iniciar essas discussões nas issues. Estando no Github, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
 
-O objetivo maior é unificar todas as discussões em um só local e o Github foi o escolhido para isso.
+O objetivo é unificar todas as discussões em um só local e o Github foi o escolhido para isso.
 
 ## Vantagens do Github
 
