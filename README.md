@@ -30,17 +30,41 @@ O objetivo é unificar todas as discussões em um só local e o Github foi o esc
 * Escalável
 * Organizável
 
+## Diretrizes e Boas Práticas
+
+Antes de criar uma issue você deve atentar para as seguintes diretrizes:
+* Evite tópicos duplicados, utilize a função de busca antes de criar uma nova issue.
+* Escreva o português de forma correta e bem pontuado.
+* Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
+* Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
+* Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
+
+## Quando criar uma Issue
+
+* **Duvidas**: Concentre suas issues em problemas reais. Inclua detalhes sobre o que você tentou e exatamente o que você está tentando fazer.
+  
+  O ideal é que antes de criar uma dúvida você tente resolver o problema sozinho, na grande maioria das vezes uma breve busca no Google pode te ajudar a encontrar uma solução.
+  
+  Pergunte sobre:
+	- Como resolver um determinado problema ex: `Como alterar a cor de fundo de uma div com CSS`.
+	- Como executar uma determinada tarefa ex: `Como consumir um webservice REST com Javascript`.
+	- Como otimizar um trecho de código ex: `Como percorrer todas as propriedades de um objeto rapidamente`.
+  
+* **Discussões**: Discussões são sempre bem-vindas, ao formular uma issue, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
+
+* **Ferramentas**: Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica. 
+
+* **Geral**: Se seu post não se encaixa em nenhuma das categorias acima, não tem problema se for sobre Front-End estamos sempre prontos para discutir sobre qualquer assunto.
+
 ## Código de Conduta
 
 Como qualquer grupo de discussões, existem algumas regras que devem ser seguidas para proporcionar uma melhor experiência à todos.
 
 * Respeite para ser respeitado. Não escreva algo que possa ofender alguém. Reflita se o texto não é agressivo/mal educado antes de enviar.
 * Mantenha as críticas nas idéias e não nas pessoas.
-* Use a função de busca antes de criar uma nova issue.
-* Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
-* Escreva o português de forma correta e bem pontuado.
-* Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
-* Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
+* Não será permitido qualquer tipo de assédio ou discriminação relacionados a características ou escolhas pessoais, bem como bullying, sexismo, racismo ou qualquer outro tipo de ação que possa proporcionar constrangimento aos outros participantes.
+
+Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.
 
 ## Como receber atualizações do Forum
 
