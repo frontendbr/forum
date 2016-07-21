@@ -35,16 +35,36 @@ O objetivo é unificar todas as discussões em um só local e o Github foi o esc
 ## Diretrizes e Boas Práticas
 
 Antes de criar uma issue você deve atentar para as seguintes diretrizes:
+
+### Pesquise
+
+Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. Muitas das dúvidas de iniciantes podem ser respondidas com pesquisas simples, portanto antes de postar sua dúvida certifique-se de que fez as pesquisas necessárias e traga para dentro da issue os dados que encontrou e os dados que não encontrou sobre o assunto.
+
+#### Pesquise no fórum
+1. Utilize a função de busca no topo desse repositório (certifique-se de não estar em um *fork*)
+
+2. Pesquise assuntos próximos, talvez sua dúvida possa ter sido respondida em alguma issue parecida
+
+#### Pesquise em ambiente externo
+
+1. Caso sua dúvida seja sobre uma linguagem ou ferramenta específica, busque sua dúvida na documentação oficial dessa linguagem/ferramenta
+
+2. Caso o item acima não resolva, utilize preferêncialmente o [google](https://www.google.com)
+
+3. Tente pesquisar em inglês, nem que pra isso precise recorrer ao [translate](https://translate.google.com)
+
+3. Dê preferência para resultados de documentações oficiais e fóruns especializados, exemplo:
+  * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/)
+  * [StackOverflow](http://stackoverflow.com/)
+
+### Outros pontos
+
 * Escreva o português de forma correta e bem pontuado.
 * Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
 * Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
 * Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
 
 ## Quando criar uma Issue
-
-### Faça uma busca primeiro!
-
-Evite tópicos duplicados, utilize a **função de busca** antes de criar uma nova issue.
 
 ### Dúvidas
 
