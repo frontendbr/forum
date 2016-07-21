@@ -6,10 +6,12 @@
 
 > Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) pra issues.
 
-_____  
+_____
+
 <p align="center">
   <a href="https://github.com/frontendbr/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
 </p>
+
 _____
 
 ## Propósito
@@ -32,7 +34,7 @@ O objetivo é unificar todas as discussões em um só local e o Github foi o esc
 
 ## Diretrizes e Boas Práticas
 
-Antes de criar uma issue você deve atentar para as seguintes diretrizes: 
+Antes de criar uma issue você deve atentar para as seguintes diretrizes:
 * Escreva o português de forma correta e bem pontuado.
 * Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
 * Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
@@ -43,11 +45,11 @@ Antes de criar uma issue você deve atentar para as seguintes diretrizes:
 ### Faça uma busca primeiro!
 
 Evite tópicos duplicados, utilize a **função de busca** antes de criar uma nova issue.
- 
-### Dúvidas 
- 
+
+### Dúvidas
+
 Concentre suas issues em problemas reais. Inclua detalhes sobre o que você tentou e exatamente o que você está tentando fazer.
-  
+
 O ideal é que antes de criar uma dúvida você tente resolver o problema sozinho, na grande maioria das vezes uma breve busca no Google pode te ajudar a encontrar uma solução.
 
 Pergunte sobre:
@@ -57,16 +59,16 @@ Pergunte sobre:
 
 Lembre-se de pesquisar bastante antes de abrir uma issue, existem boas chances da sua dúvida já ter sido respondida e estar documentada pela internet.
 
-### Discussões 
- 
+### Discussões
+
 Discussões são sempre bem-vindas, ao formular uma issue, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
 
 ### Ferramentas
 
-Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica. 
+Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica.
 
 ### Geral
- 
+
 Se seu post não se encaixa em nenhuma das categorias acima, não tem problema se for sobre Front-End estamos sempre prontos para discutir sobre qualquer assunto.
 
 ## Código de Conduta
@@ -96,7 +98,7 @@ No Slack [Frontend Brasil](http://frontendbrasil.slack.com/) tem o canal `#forum
 Badge | Link | Participar
 ----- | ---- | ----------
 ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Frontend Brasil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
- 
+
 ________
 #### Repositórios da Front-End Brasil
 
