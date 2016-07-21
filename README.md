@@ -53,7 +53,7 @@ Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. 
 
 3. Tente pesquisar em inglês, nem que pra isso precise recorrer ao [translate](https://translate.google.com)
 
-3. Dê preferência para resultados de documentações oficiais e fóruns especializados, exemplo:
+4. Dê preferência para resultados de documentações oficiais e fóruns especializados, exemplo:
   * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/)
   * [StackOverflow](http://stackoverflow.com/)
 
