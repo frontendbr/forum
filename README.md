@@ -41,17 +41,18 @@ Antes de criar uma issue você deve atentar para as seguintes diretrizes:
 Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. Muitas das dúvidas de iniciantes podem ser respondidas com pesquisas simples, portanto antes de postar sua dúvida certifique-se de que fez as pesquisas necessárias e traga para dentro da issue os dados que encontrou e os dados que não encontrou sobre o assunto.
 
 #### Pesquise no fórum
+
 1. Utilize a função de busca no topo desse repositório (certifique-se de não estar em um *fork*)
 
 2. Pesquise assuntos próximos, talvez sua dúvida possa ter sido respondida em alguma issue parecida
 
-#### Pesquise em ambiente externo
+#### Pesquise na internet
 
 1. Caso sua dúvida seja sobre uma linguagem ou ferramenta específica, busque sua dúvida na documentação oficial dessa linguagem/ferramenta
 
-2. Caso o item acima não resolva, utilize preferêncialmente o [google](https://www.google.com)
+2. Caso o item acima não resolva, utilize preferêncialmente o [Google](https://www.google.com)
 
-3. Tente pesquisar em inglês, nem que pra isso precise recorrer ao [translate](https://translate.google.com)
+3. Tente pesquisar em inglês, nem que pra isso precise recorrer ao [Google Translate](https://translate.google.com)
 
 4. Dê preferência para resultados de documentações oficiais e fóruns especializados, exemplo:
   * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/)
