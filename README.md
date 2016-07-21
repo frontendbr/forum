@@ -64,7 +64,7 @@ Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. 
 * Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
 * Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
 
-## Quando criar uma Issue
+## Quando criar uma Issue?
 
 ### Dúvidas
 
@@ -89,7 +89,7 @@ Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar o
 
 ### Geral
 
-Se seu post não se encaixa em nenhuma das categorias acima, não tem problema se for sobre Front-End estamos sempre prontos para discutir sobre qualquer assunto.
+Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Front-End estaremos dispostos a discutir e ajudar.
 
 ## Código de Conduta
 
