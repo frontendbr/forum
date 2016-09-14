@@ -130,3 +130,10 @@ ________
 - [Poste mais!](https://github.com/frontendbr/poste-mais)
 - [Open Source](https://github.com/frontendbr/open-source)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
+
+
+## Apoiadores e Parceiros
+
+<p align="center">
+  <a href="http://bit.ly/dne-custom-frontendbr"><img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo do DevNaEstrada" width="240" /></a>
+</p>
