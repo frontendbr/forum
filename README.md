@@ -6,6 +6,8 @@
 
 > Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) pra issues.
 
+**Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._ 
+
 _____
 
 <p align="center">
