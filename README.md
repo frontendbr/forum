@@ -122,6 +122,12 @@ Badge | Link | Participar
 ----- | ---- | ----------
 ![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Frontend Brasil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
 
+## Apoiadores e Parceiros
+
+<p align="center">
+  <a href="http://bit.ly/dne-custom-frontendbr"><img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo do DevNaEstrada" width="240" /></a>
+</p>
+
 ________
 #### Repositórios da Front-End Brasil
 
@@ -131,11 +137,5 @@ ________
 - [Doe um livro](https://github.com/frontendbr/doe-um-livro)
 - [Poste mais!](https://github.com/frontendbr/poste-mais)
 - [Open Source](https://github.com/frontendbr/open-source)
+- [Front-End Week](https://github.com/frontendbr/frontendweek)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
-
-
-## Apoiadores e Parceiros
-
-<p align="center">
-  <a href="http://bit.ly/dne-custom-frontendbr"><img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo do DevNaEstrada" width="240" /></a>
-</p>
