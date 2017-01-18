@@ -128,8 +128,12 @@ Badge | Link | Participar
   <a href="http://bit.ly/dne-custom-frontendbr"><img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo do DevNaEstrada" width="240" /></a>
 </p>
 
-________
-#### Repositórios da Front-End Brasil
+ 
+## Licença
+
+[MIT](LICENSE.md) &copy; FrontendBR
+
+## Repositórios da Front-End Brasil
 
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
