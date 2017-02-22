@@ -20,6 +20,8 @@ _____
 
 Uma [conversa no Twitter](https://twitter.com/LFeh/status/693111161856921600) foi o gatilho que precisavamos.
 
+<img width="584" alt="screen shot 2017-02-22 at 13 15 25" src="https://cloud.githubusercontent.com/assets/3603793/23220475/e89df29a-f900-11e6-9c91-1247a666162b.png">
+
 Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
 
 A ideia desse repositório é portar ou iniciar essas discussões nas issues. Estando no Github, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
