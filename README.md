@@ -113,7 +113,7 @@ Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a es
 - [#38](https://github.com/frontendbr/forum/issues/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte.
 - [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no javascript.
 - [#90](https://github.com/frontendbr/forum/issues/90) Paradigmas de programação com javascript.
-- [#229](https://github.com/frontendbr/forum/issues/229) Livros..
+- [#229](https://github.com/frontendbr/forum/issues/229) Livros.
 
 ## Como receber atualizações do Forum
 
