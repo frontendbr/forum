@@ -108,7 +108,7 @@ Comporte-se profissionalmente. Os participantes que violarem tais regras serão 
 
 ## Perguntas frequentes
 
-Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que tu comece lendo essas issues e logo depois abra uma nova com suas dúvidas:
+Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que tu comeces lendo essas issues e logo depois abra uma nova com suas dúvidas:
 
 - [#38](https://github.com/frontendbr/forum/issues/38) Referências fodas sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte.
 - [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no javascript.
