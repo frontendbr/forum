@@ -79,7 +79,7 @@ O ideal é que antes de criar uma dúvida você tente resolver o problema sozinh
 
 Pergunte sobre:
 - Como resolver um determinado problema ex: `Como alterar a cor de fundo de uma div com CSS`.
-- Como executar uma determinada tarefa ex: `Como consumir um webservice REST com Javascript`.
+- Como executar uma determinada tarefa ex: `Como consumir um webservice REST com JavaScript`.
 - Como otimizar um trecho de código ex: `Como percorrer todas as propriedades de um objeto rapidamente`.
 
 Lembre-se de pesquisar bastante antes de abrir uma issue, existem boas chances da sua dúvida já ter sido respondida e estar documentada pela internet.
@@ -111,8 +111,8 @@ Comporte-se profissionalmente. Os participantes que violarem tais regras serão 
 Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que tu comeces lendo essas issues e logo depois abra uma nova com suas dúvidas:
 
 - [#38](https://github.com/frontendbr/forum/issues/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte.
-- [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no javascript.
-- [#90](https://github.com/frontendbr/forum/issues/90) Paradigmas de programação com javascript.
+- [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no JavaScript.
+- [#90](https://github.com/frontendbr/forum/issues/90) Paradigmas de programação com JavaScript.
 - [#229](https://github.com/frontendbr/forum/issues/229) Livros.
 
 ## Como receber atualizações do Forum
