@@ -106,6 +106,10 @@ Como qualquer grupo de discussões, existem algumas regras que devem ser seguida
 
 Comporte-se profissionalmente. Os participantes que violarem tais regras serão convidados a se retirar ou banidos dada a gravidade de suas ações.
 
+## Linguagem
+
+**Todas** as issues devem ser abertas e respondidas em **pt-br**.
+
 ## Perguntas frequentes
 
 Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que tu comeces lendo essas issues e logo depois abra uma nova com suas dúvidas:
