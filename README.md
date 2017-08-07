@@ -146,7 +146,7 @@ Badge | Link | Participar
  
 ## Licença
 
-[MIT](LICENSE.md) &copy; FrontendBR
+[MIT](LICENSE) &copy; FrontendBR
 
 ## Repositórios da Front-End Brasil
 
