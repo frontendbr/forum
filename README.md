@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
+<img src="https://raw.githubusercontent.com/frontendbr/brand/f33a3aa9/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
+<h1 align="center">Fórum</h1>
+<p align="center">:beer: Portando discussões feitas em grupos para issues.</p>
 
-# Fórum
-
-> Portando discussões feitas em grupos (Facebook, Google Groups, Slack, Disqus) pra issues.
-
-**Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._ 
+> **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._ 
 
 _____
 
