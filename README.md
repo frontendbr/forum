@@ -26,6 +26,11 @@ A ideia desse repositório é portar ou iniciar essas discussões nas issues. Es
 
 O objetivo é unificar todas as discussões em um só local e o Github foi o escolhido para isso.
 
+Em 2017, depois de tantas conquistas (empregos, conhecimento e networking) e elogios (por parte do TechLead do GitHub), nos tornamos a **comunidade oficial do evento InterCon do iMasters**.
+
+![Felipe Fialho na frente do banner da Intercon 2017 representando o comunidade Front-End Brasil](https://user-images.githubusercontent.com/3299130/31845997-9634e1ca-b5e4-11e7-9985-60598a4a70f8.png)
+
+
 ## Vantagens do Github
 
 * Espaço usado por quase todos os desenvolvedores
