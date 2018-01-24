@@ -117,6 +117,23 @@ Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a es
 - [#90](https://github.com/frontendbr/forum/issues/90) Paradigmas de programação com JavaScript.
 - [#229](https://github.com/frontendbr/forum/issues/229) Livros.
 
+## Como ordenar as issues
+
+Você pode ordenar as issues da maneira aque achar melhor, as opções são:
+
+- Mais novas
+- Mais antigas
+- Mais comentadas
+- Menos comentadas
+- Recentemente atualizadas
+- Últimas atualizadas
+- Com mais reações
+
+Para isso basta clicar em **Sort** e escolher a ordenação.
+
+<img width="429" alt="screen shot 2018-01-24 at 2 53 35 pm" src="https://user-images.githubusercontent.com/3603793/35345553-17a61044-0117-11e8-9474-a6e3c4f60ada.png">
+
+
 ## Como receber atualizações do Forum
 
 Você pode receber atualizações do Forum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
