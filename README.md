@@ -4,7 +4,7 @@
 <h1 align="center">Fórum</h1>
 <p align="center">:beer: Portando discussões feitas em grupos para issues.</p>
 
-> **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._ 
+> **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
 
 _____
 
@@ -16,22 +16,22 @@ _____
 
 ## Propósito
 
-Uma [conversa no Twitter](https://twitter.com/LFeh/status/693111161856921600) foi o gatilho que precisavamos.
+Uma [conversa no Twitter](https://twitter.com/LFeh/status/693111161856921600) foi o gatilho que precisávamos.
 
 <img width="584" alt="screen shot 2017-02-22 at 13 15 25" src="https://cloud.githubusercontent.com/assets/3603793/23220475/e89df29a-f900-11e6-9c91-1247a666162b.png">
 
 Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
 
-A ideia desse repositório é portar ou iniciar essas discussões nas issues. Estando no Github, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
+A ideia desse repositório é portar ou iniciar essas discussões nas issues. Estando no GitHub, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
 
-O objetivo é unificar todas as discussões em um só local e o Github foi o escolhido para isso.
+O objetivo é unificar todas as discussões em um só local, e o GitHub foi o escolhido para isso.
 
 Em 2017, depois de tantas conquistas (empregos, conhecimento e networking) e elogios (por parte do TechLead do GitHub), nos tornamos a **comunidade oficial do evento InterCon do iMasters**.
 
 ![Felipe Fialho na frente do banner da Intercon 2017 representando o comunidade Front-End Brasil](https://user-images.githubusercontent.com/3299130/31845997-9634e1ca-b5e4-11e7-9985-60598a4a70f8.png)
 
 
-## Vantagens do Github
+## Vantagens do GitHub
 
 * Espaço usado por quase todos os desenvolvedores
 * É uma rede social
@@ -63,13 +63,13 @@ Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. 
 
 4. Dê preferência para resultados de documentações oficiais e fóruns especializados, exemplo:
   * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/pt-BR/)
-  * [StackOverflow](http://stackoverflow.com/)
+  * [StackOverflow](https://stackoverflow.com/)
 
 ### Outros pontos
 
 * Escreva o português de forma correta e bem pontuado.
-* Evite sair do escopo inicial da issue. Caso necessário, crie uma nova e mencione o número.
-* Se precisar de ajuda em um código, forneça trechos, Gists, e lembre-se, ninguém tem a obrigação de resolver seu problema.
+* Evite sair do escopo inicial da issue. Caso necessário, crie uma nova issue e mencione o número da issue.
+* Se precisar de ajuda em um código, forneça trechos, [Gists](https://gist.github.com/), e lembre-se, ninguém tem a obrigação de resolver seu problema.
 * Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
 
 ## Quando criar uma Issue?
@@ -115,7 +115,7 @@ Comporte-se profissionalmente. Os participantes que violarem tais regras serão 
 
 ## Perguntas frequentes
 
-Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que tu comeces lendo essas issues e logo depois abra uma nova com suas dúvidas:
+Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que você inicie lendo essas issues e logo depois abra uma nova com suas dúvidas:
 
 - [#38](https://github.com/frontendbr/forum/issues/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte.
 - [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no JavaScript.
@@ -139,9 +139,9 @@ Para isso basta clicar em **Sort** e escolher a ordenação.
 <img width="429" alt="screen shot 2018-01-24 at 2 53 35 pm" src="https://user-images.githubusercontent.com/3603793/35345553-17a61044-0117-11e8-9474-a6e3c4f60ada.png">
 
 
-## Como receber atualizações do Forum
+## Como receber atualizações do Fórum
 
-Você pode receber atualizações do Forum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
+Você pode receber atualizações do Fórum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
 
 <p align="center">
   <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
@@ -163,7 +163,7 @@ Badge | Link | Participar
   <a href="http://bit.ly/dne-custom-frontendbr"><img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo do DevNaEstrada" width="240" /></a>
 </p>
 
- 
+
 ## Licença
 
 [MIT](LICENSE) &copy; FrontendBR
