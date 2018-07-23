@@ -96,6 +96,12 @@ Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar o
 
 Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Front-End estaremos dispostos a discutir e ajudar.
 
+## Como criar sua issue?
+
+### Trechos de código
+
+Para facilitar a visualização de quem vai ler sua issue, coloque seu código no [Codepen](https://codepen.io/) (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
+
 ## Código de Conduta
 
 Como qualquer grupo de discussões, existem algumas regras que devem ser seguidas para proporcionar uma melhor experiência à todos.
