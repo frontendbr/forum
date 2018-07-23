@@ -157,7 +157,7 @@ Badge | Link | Participar
 ## Apoiadores e Parceiros
 
 <p align="center">
-  <a href="http://bit.ly/dne-custom-frontendbr"><img src="http://devnaestrada.com.br/public/assets/img/devnaestrada.svg" alt="Logo do DevNaEstrada" width="240" /></a>
+  <a href="http://bit.ly/dne-custom-frontendbr"><img src="https://user-images.githubusercontent.com/3299130/43040168-26d560aa-8d13-11e8-9cea-765a07f2b7b0.png" alt="Logo do DevNaEstrada" width="240" /></a>
 </p>
 
 
