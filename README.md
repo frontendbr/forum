@@ -18,7 +18,7 @@ _____
 
 Uma [conversa no Twitter](https://twitter.com/LFeh/status/693111161856921600) foi o gatilho que precisávamos.
 
-<img width="584" alt="screen shot 2017-02-22 at 13 15 25" src="https://cloud.githubusercontent.com/assets/3603793/23220475/e89df29a-f900-11e6-9c91-1247a666162b.png">
+<img width="650" alt="Começo do Front-end BR" src="https://user-images.githubusercontent.com/3603793/58209958-7a5c2380-7cbe-11e9-8c7b-b1889eea9fe2.png">
 
 Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
 
