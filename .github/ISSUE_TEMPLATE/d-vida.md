@@ -3,7 +3,7 @@ name: Dúvida
 about: Escolha se quer tirar dúvidas sobre código
 title: Escreva o titulo de forma clara e objetiva
 labels: "[Dúvida]"
-assignees: felipefialho
+assignees: ''
 
 ---
 
