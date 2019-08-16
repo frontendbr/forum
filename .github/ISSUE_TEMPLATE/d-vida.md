@@ -1,9 +1,9 @@
 ---
-name: Dúvidas
-about: Escolha se quer tirar uma dúvida sobre código
+name: Dúvida
+about: Escolha se quer tirar dúvidas sobre código
 title: Escreva o titulo de forma clara e objetiva
 labels: "[Dúvida]"
-assignees: ''
+assignees: felipefialho
 
 ---
 
