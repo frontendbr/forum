@@ -21,13 +21,13 @@ Se tem algum que não está listado aqui, por favor nos mande via issues!
 * [Meu blog é OPEN!](https://github.com/woliveiras/woliveiras.github.io) - Aceito sugestões de postagens e ajuda para melhoria do Blog via issues.
 * [Traduções, projeto do FEMUG-ABC](https://github.com/femug-abc/femug-abc/tree/master/projects/translations) - O Grupo se juntou para traduzir alguns artigos, quem puder colaborar com tradução ou mesmo com posts nas issues, estamos ae!
 
-### @LFeh
+### @felipefialho
 
 
-* [CSS Components](https://github.com/LFeh/css-components)
-* [poste-mais](https://github.com/LFeh/poste-mais)
-* [chessjs](https://github.com/chessjs/chess)
-* [piano-keyboard](https://github.com/LFeh/piano-keyboard)
+* [css components](https://github.com/felipefialho/css-components)
+* [despolitizador](https://github.com/felipefialho/despolitizador)
+* [kratos boilerplate](https://github.com/felipefialho/kratos-boilerplate)
+* [piano-keyboard](https://github.com/felipefialho/piano-keyboard)
 
 ### @dancasttro 
 
