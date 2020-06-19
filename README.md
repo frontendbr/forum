@@ -120,10 +120,19 @@ Comporte-se profissionalmente. Os participantes que violarem tais regras serão 
 
 Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a estudar, nossa sugestão é que você inicie lendo essas issues e logo depois abra uma nova com suas dúvidas:
 
-- [#38](https://github.com/frontendbr/forum/issues/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte.
-- [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no JavaScript.
-- [#90](https://github.com/frontendbr/forum/issues/90) Paradigmas de programação com JavaScript.
-- [#229](https://github.com/frontendbr/forum/issues/229) Livros.
+### Técnicas e metodologias
+
+- [#229](https://github.com/frontendbr/forum/issues/229) Livros
+- [#480](https://github.com/frontendbr/forum/issues/480) Como funciona o processo de **Code Review** onde vocês trabalham?
+
+### HTML
+
+- [#38](https://github.com/frontendbr/forum/issues/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte
+
+### JavaScript
+
+- [#90](https://github.com/frontendbr/forum/issues/90) Paradigmas de programação com JavaScript
+- [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no JavaScript
 
 ## Como ordenar as issues
 
