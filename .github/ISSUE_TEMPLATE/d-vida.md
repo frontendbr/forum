@@ -7,6 +7,10 @@ assignees: ''
 
 ---
 
+**!important**, caso o título ou/e conteúdo não estejam claros para que outras pessoas possam ajudar, a issue será excluída.
+
+______
+
 Olá! Antes de criar essa issue, algumas dicas:
 
 ### Pesquise no fórum
