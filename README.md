@@ -123,7 +123,7 @@ Se alguém respondeu sua pergunta corretamente, não deixe de marcar a resposta 
 Na aba **Discussions** basta clicar no botão **New discussion**, na próxima página, basta escolher entre as 4 diferentes categorias.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/start-discussion.png" alt="Menu mostrando as categorias" />
+  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/discussion-categories.png" alt="Menu mostrando as categorias" />
 </p>
 
 - **Perguntas e Respostas**: Pergunte e ajude a comunidade! =D
