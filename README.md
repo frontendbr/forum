@@ -2,14 +2,14 @@
 <img src="https://raw.githubusercontent.com/frontendbr/brand/f33a3aa9/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Fórum</h1>
-<p align="center">:beer: Portando discussões feitas em grupos para issues.</p>
+<p align="center">:beer: Portando discussões feitas em grupos para o GitHub.</p>
 
 > **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
 
 _____
 
 <p align="center">
-  <a href="https://github.com/frontendbr/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
+  <a href="https://github.com/frontendbr/forum/discussions"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
 </p>
 
 _____
@@ -22,7 +22,7 @@ Uma [conversa no Twitter](https://twitter.com/felipefialho_/status/6931111618569
 
 Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
 
-A ideia desse repositório é portar ou iniciar essas discussões nas issues. Estando no GitHub, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
+A ideia desse repositório é portar ou iniciar essas discussões no GitHub. Estando no GitHub, fica mais fácil procurar respostas a perguntas já respondidas por esses grupos.
 
 O objetivo é unificar todas as discussões em um só local, e o GitHub foi o escolhido para isso.
 
@@ -38,17 +38,17 @@ Em 2017, depois de tantas conquistas (empregos, conhecimento e networking) e elo
 
 ## Diretrizes e Boas Práticas
 
-Antes de criar uma issue você deve atentar para as seguintes diretrizes:
+Antes de criar uma pergunta/discussão você deve atentar para as seguintes diretrizes:
 
 ### Pesquise
 
-Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. Muitas das dúvidas de iniciantes podem ser respondidas com pesquisas simples, portanto antes de postar sua dúvida certifique-se de que fez as pesquisas necessárias e traga para dentro da issue os dados que encontrou e os dados que não encontrou sobre o assunto.
+Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. Muitas das dúvidas de iniciantes podem ser respondidas com pesquisas simples, portanto antes de postar sua dúvida certifique-se de que fez as pesquisas necessárias e traga para dentro da pergunta/discussão os dados que encontrou e os dados que não encontrou sobre o assunto.
 
 #### Pesquise no fórum
 
 1. Utilize a função de busca no topo desse repositório (certifique-se de não estar em um *fork*)
 
-2. Pesquise assuntos próximos, talvez sua dúvida possa ter sido respondida em alguma issue parecida
+2. Pesquise assuntos próximos, talvez sua dúvida possa ter sido respondida em alguma pergunta/discussão parecida
 
 #### Pesquise na internet
 
@@ -65,15 +65,15 @@ Uma habilidade essencial para os desenvolvedores é saber fazer boas pesquisas. 
 ### Outros pontos
 
 * Escreva o português de forma correta e bem pontuado.
-* Evite sair do escopo inicial da issue. Caso necessário, crie uma nova issue e mencione o número da issue.
+* Evite sair do escopo inicial da pergunta/discussão. Caso necessário, crie uma nova pergunta/discussão e mencione a pergunta/discussão.
 * Se precisar de ajuda em um código, forneça trechos, [Gists](https://gist.github.com/), e lembre-se, ninguém tem a obrigação de resolver seu problema.
 * Não seja um monólogo que só fala de si. Interaja com as respostas, cite pessoas, gere uma discussão saudável e construtiva. Afinal, quanto mais informações, mais rico nosso ambiente será e ajudará mais pessoas.
 
-## Quando criar uma Issue?
+## Quando criar uma Pergunta/Discussão?
 
 ### Dúvidas
 
-Concentre suas issues em problemas reais. Inclua detalhes sobre o que você tentou e exatamente o que você está tentando fazer.
+Concentre suas perguntas em problemas reais. Inclua detalhes sobre o que você tentou e exatamente o que você está tentando fazer.
 
 O ideal é que antes de criar uma dúvida você tente resolver o problema sozinho, na grande maioria das vezes uma breve busca no Google pode te ajudar a encontrar uma solução.
 
@@ -82,25 +82,25 @@ Pergunte sobre:
 - Como executar uma determinada tarefa ex: `Como consumir um webservice REST com JavaScript`.
 - Como otimizar um trecho de código ex: `Como percorrer todas as propriedades de um objeto rapidamente`.
 
-Lembre-se de pesquisar bastante antes de abrir uma issue, existem boas chances da sua dúvida já ter sido respondida e estar documentada pela internet.
+Lembre-se de pesquisar bastante antes de abrir uma pergunta/discussão, existem boas chances da sua dúvida já ter sido respondida e estar documentada pela internet.
 
 ### Discussões
 
-Discussões são sempre bem-vindas, ao formular uma issue, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
+Discussões são sempre bem-vindas, ao formular uma pergunta/discussão, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
 
 ### Ferramentas
 
-Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica.
+Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar os membros do grupo? Não hesite em compartilhar conosco estamos ansiosos pela sua dica. Existe uma categoria só para [dicas assim](https://github.com/frontendbr/forum/discussions?discussions_q=category%3ADicas).
 
 ### Geral
 
-Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Front-End estaremos dispostos a discutir e ajudar.
+Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Front-End estaremos dispostos a discutir e ajudar. E você pode abrir com a [categoria discussão](https://github.com/frontendbr/forum/discussions?discussions_q=category%3ADiscuss%C3%A3o).
 
-## Como criar sua issue?
+## Como criar sua Pergunta/Discussão?
 
 ### Trechos de código
 
-Para facilitar a visualização de quem vai ler sua issue, coloque seu código no [Codepen](https://codepen.io/) (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
+Para facilitar a visualização de quem vai ler sua pergunta/discussão, coloque seu código no [Codepen](https://codepen.io/) (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
 
 ## Código de Conduta
 
@@ -133,22 +133,6 @@ Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a es
 
 - [#90](https://github.com/frontendbr/forum/issues/90) Paradigmas de programação com JavaScript
 - [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no JavaScript
-
-## Como ordenar as issues
-
-Você pode ordenar as issues da maneira aque achar melhor, as opções são:
-
-- Mais novas
-- Mais antigas
-- Mais comentadas
-- Menos comentadas
-- Recentemente atualizadas
-- Últimas atualizadas
-- Com mais reações
-
-Para isso basta clicar em **Sort** e escolher a ordenação.
-
-<img width="429" alt="screen shot 2018-01-24 at 2 53 35 pm" src="https://user-images.githubusercontent.com/3603793/35345553-17a61044-0117-11e8-9474-a6e3c4f60ada.png">
 
 
 ## Como receber atualizações do Fórum
