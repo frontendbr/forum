@@ -36,6 +36,20 @@ Em 2017, depois de tantas conquistas (empregos, conhecimento e networking) e elo
 * Escalável
 * Organizável
 
+## Ajude e seja lembrado!
+
+Toda vez que alguém faz uma pergunta e sua resposta é marcada como correta, você ganha um ponto e pode aparecer no ranking das pessoas que mais ajudam.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/ranking.png" alt="Uma lista mostrando as pessoas que mais responderam nos últimos 30 dias" />
+</p>
+
+Além disso, seu perfil no GitHub também irá mostrar quantas discussões você já respondeu!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/badge.png" alt="Perfil de um desenvolvedor que já respondeu 297 discussões" />
+</p>
+
 ## Diretrizes e Boas Práticas
 
 Antes de criar uma pergunta/discussão você deve atentar para as seguintes diretrizes:
@@ -86,7 +100,7 @@ Lembre-se de pesquisar bastante antes de abrir uma pergunta/discussão, existem 
 
 ### Discussões
 
-Discussões são sempre bem-vindas, ao formular uma pergunta/discussão, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
+Discussões são sempre bem-vindas, ao formular uma discussão, tente ser o mais direto possível sobre o que você pretende abordar, se necessário abra mais de uma thread, uma para cada assunto.
 
 ### Ferramentas
 
@@ -95,6 +109,14 @@ Descobriu uma ferramenta, framework ou qualquer outro recurso que possa ajudar o
 ### Geral
 
 Caso seu post não se encaixe em nenhuma das categorias acima, não tem problema. Desde que ele trate sobre Front-End estaremos dispostos a discutir e ajudar. E você pode abrir com a [categoria discussão](https://github.com/frontendbr/forum/discussions?discussions_q=category%3ADiscuss%C3%A3o).
+
+## Sua pergunta foi respondida?
+
+Se alguém respondeu sua pergunta corretamente, não deixe de marcar a resposta como respondida. Isso ajuda a filtrar as perguntas, além de dar um ponto para o colega que te ajudou e incentivar que as pessoas se ajudem mais e mais.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/mark-answer.png" alt="Opção mostrando para marcar a resposta como respondida" />
+</p>
 
 ## Como criar sua Pergunta/Discussão?
 
@@ -122,26 +144,24 @@ Várias dúvidas e perguntas de como iniciar a carreira e por onde começar a es
 
 ### Técnicas e metodologias
 
-- [#229](https://github.com/frontendbr/forum/issues/229) Livros
-- [#480](https://github.com/frontendbr/forum/issues/480) Como funciona o processo de **Code Review** onde vocês trabalham?
+- [#229](https://github.com/frontendbr/forum/discussions/229) Livros
+- [#480](https://github.com/frontendbr/forum/discussions/480) Como funciona o processo de **Code Review** onde vocês trabalham?
 
 ### HTML
 
-- [#38](https://github.com/frontendbr/forum/issues/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte
+- [#38](https://github.com/frontendbr/forum/discussions/38) Referências sobre HTML e um monte de conhecimento sobre o que é uma linguagem de marcação e de transporte
 
 ### JavaScript
 
-- [#90](https://github.com/frontendbr/forum/issues/90) Paradigmas de programação com JavaScript
-- [#270](https://github.com/frontendbr/forum/issues/270) Roadmap sobre por onde ir no JavaScript
+- [#90](https://github.com/frontendbr/forum/discussions/90) Paradigmas de programação com JavaScript
+- [#270](https://github.com/frontendbr/forum/discussions/270) Roadmap sobre por onde ir no JavaScript
 
 
 ## Como receber atualizações do Fórum
 
-Você pode receber atualizações do Fórum no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
+Você pode receber atualizações do Fórum no seu email ou via notificações do GitHub, basta clicar em **Watch**, em seguida, basta ir em **Custom** e marcar a opção de **Discussions**.
 
-<p align="center">
-  <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
-</p>
+![Menu mostrando como marcar para habilitar opção de assistir notificações](assets/watch.png)
 
 ## Extra
 
