@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Dúvida
+    url: https://github.com/frontendbr/forum/discussions/new
+    about: Escolha se quer tirar dúvidas sobre código
+  - name: Discussão
+    url: https://github.com/frontendbr/forum/discussions/new
+    about: Escolha se quer propor discussões ou reflexões sobre assuntos relacionados a profissão
