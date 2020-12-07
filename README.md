@@ -131,7 +131,7 @@ Na aba **Discussions** basta clicar no botão **New discussion**, na próxima p�
 - **Dicas**: Compartilhe dicas e links interessantes que você achou.
 - **Mostre seu trabalho**: Divulgue seu trabalho, peça feedback e compartilhe sua experiência.
 
-Após selecionar a categoria, basta adicionar um título bem detalhado e caprichar no texto. Lembre-se de seguir [os guidelines](GUIDELINES.md) ao criar uma pergunta/discussão.
+Após selecionar a categoria, basta adicionar um título bem detalhado e caprichar no texto. Lembre-se de seguir [os passos corretos](CONTRIBUTING.md) ao criar uma pergunta/discussão.
 
 ### Trechos de código
 
