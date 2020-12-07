@@ -120,6 +120,19 @@ Se alguém respondeu sua pergunta corretamente, não deixe de marcar a resposta 
 
 ## Como criar sua Pergunta/Discussão?
 
+Na aba **Discussions** basta clicar no botão **New discussion**, na próxima página, basta escolher entre as 4 diferentes categorias.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frontendbr/forum/main/assets/start-discussion.png" alt="Menu mostrando as categorias" />
+</p>
+
+- **Perguntas e Respostas**: Pergunte e ajude a comunidade! =D
+- **Discussão**: Proponha discussões ou reflexões sobre assuntos relacionados a profissão.
+- **Dicas**: Compartilhe dicas e links interessantes que você achou.
+- **Mostre seu trabalho**: Divulgue seu trabalho, peça feedback e compartilhe sua experiência.
+
+Após selecionar a categoria, basta adicionar um título bem detalhado e caprichar no texto. Lembre-se de seguir [os guidelines](GUIDELINES.md) ao criar uma pergunta/discussão.
+
 ### Trechos de código
 
 Para facilitar a visualização de quem vai ler sua pergunta/discussão, coloque seu código no [Codepen](https://codepen.io/) (recomendadíssimo) ou no Gist. Assim quem for te ajudar conseguirá ver seu código em funcionamento, facilitando as dicas.
