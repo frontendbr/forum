@@ -1,3 +1,3 @@
 # Páginas da wiki
 
-* [Projetos open-source](../../../blob/down-of-the-wiki/wiki/Projetos-open-source.md)
+* [Projetos open-source](Projetos-open-source.md)
