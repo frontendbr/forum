@@ -178,18 +178,18 @@ Você pode receber atualizações do Fórum no seu email ou via notificações d
 
 ## Extra
 
-No Slack [Frontend Brasil](http://frontendbrasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
+No Slack [Frontend Brasil](https://frontendbrasil.slack.com/) tem o canal `#forum` que está integrado com o **GitHub**, desta forma, você sempre saberá quando alguém postou uma nova **issue**.
 
 **Entre e participe!**
 
 Badge | Link | Participar
 ----- | ---- | ----------
-![Participantes](http://frontendbrasil-slack.herokuapp.com/badge.svg) | [Frontend Brasil](http://frontendbrasil.slack.com/) | [Participar](http://frontendbrasil-slack.herokuapp.com/)
+![Participantes](https://frontendbrasil-slack.herokuapp.com/badge.svg) | [Frontend Brasil](https://frontendbrasil.slack.com/) | [Participar](https://frontendbrasil-slack.herokuapp.com/)
 
 ## Apoiadores e Parceiros
 
 <p align="center">
-  <a href="http://bit.ly/dne-custom-frontendbr"><img src="https://user-images.githubusercontent.com/3299130/43040168-26d560aa-8d13-11e8-9cea-765a07f2b7b0.png" alt="Logo do DevNaEstrada" width="240" /></a>
+  <a href="https://bit.ly/dne-custom-frontendbr"><img src="https://user-images.githubusercontent.com/3299130/43040168-26d560aa-8d13-11e8-9cea-765a07f2b7b0.png" alt="Logo do DevNaEstrada" width="240" /></a>
 </p>
 
 
