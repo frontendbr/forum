@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/frontendbr/brand/f33a3aa9/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
-</p>
-<h1 align="center">Fórum</h1>
+<img src="https://github.com/user-attachments/assets/bf1fa41a-9b42-4cb0-8dc8-79847d198762" alt="Front-end Brasil">
+</p> 
 <p align="center">:beer: Portando discussões feitas em grupos para o GitHub.</p>
 
 > **Disclaimer:** _As opiniões aqui publicadas são de inteira responsabilidade de seus autores e não refletem, necessariamente, o posicionamento da organização._
@@ -9,7 +8,7 @@
 _____
 
 <p align="center">
-  <a href="https://github.com/frontendbr/forum/discussions"><img src="https://github.com/frontendbr/forum/raw/ff96068c309b022d15fec77586c1990097af0406/btn.png" alt="FrontEndBR" width="119" /></a>
+  <a href="https://github.com/frontendbr/forum/discussions"><img src="https://github.com/user-attachments/assets/a9971347-c80c-4f80-a663-268207e008a7" alt="Como funciona" /></a>
 </p>
 
 _____
@@ -18,7 +17,7 @@ _____
 
 Uma [conversa no Twitter](https://twitter.com/felipefialho_/status/693111161856921600) foi o gatilho que precisávamos.
 
-<img width="650" alt="Começo do Front-end BR" src="https://user-images.githubusercontent.com/3603793/58209958-7a5c2380-7cbe-11e9-8c7b-b1889eea9fe2.png">
+<img width="650" alt="Começo do Front-end BR" src="https://github.com/user-attachments/assets/3d829125-663e-4989-abd8-05b179e7faa7">
 
 Alguns posts em grupos de front-end em redes sociais geram debates legais que poderiam ser disponibilizados em local melhor estruturado para tal. A busca do Facebook em grupos, por exemplo, tem vários problemas. Discussões épicas foram perdidas, e pessoas que ingressam agora nos grupos não tem mais acesso a esses posts.
 
